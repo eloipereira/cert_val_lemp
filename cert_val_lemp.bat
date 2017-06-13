@@ -45,7 +45,7 @@ set sign="%sign0%"
 	)
 	echo.
 	set /P CIE=" * Inserir CIE e premir ENTER (s para sair, 1 para primeiro CIE da lista): "
-	if "%CIE%"==1 (
+	if %CIE%==1 (
 		echo A procurar primeiro certificado...
 		for /f "delims=" %%b in ('dir /a /b *.pdf 2^>nul') do (
 			set file=%%~dpnxb
