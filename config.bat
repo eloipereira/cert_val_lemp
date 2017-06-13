@@ -1,0 +1,17 @@
+set cert_path=E:\Certificados_de_Calibracao\Aguardar_Validacao
+set batch_sign_path=E:\Certificados_de_Calibracao\Aguardar_Validacao\batch
+set output_path=E:\Certificados_de_Calibracao\Certificados_Validados\Validados
+set standby_path=E:\Certificados_de_Calibracao\Aguardar_Validacao\STDBY
+set jsign_path=C:\Program Files\JSignPdf
+set pdfReader="C:\Program Files\Foxit Software\Foxit Reader\Foxit Reader.exe"
+set bin_path=E:\Certificados_de_Calibracao\bin
+set sign0=Eloi Pereira  Maj/EngEl
+set sign1=Jose Ferreira  Cap/EngEl
+set sign2=Joao Picao  SCH/MMA
+set location="LEMP - Laboratorio de Metrologia, Base Aerea no. 5., Serra do Porto Urso, 2425-022 Monte Real"
+set contact="Telef. (+351) 244 681 082, ext. 560 205"
+set page=1
+set llx=361.92413
+set lly=152.06398
+set urx=472.71725
+set ury=123.55202
